@@ -45,9 +45,7 @@ git clone [https://github.com/bezbaruahjagriti6-commits/Pneumonia-Detection-CNN.
 cd Pneumonia-Detection-CNN
 
 ## 2. Install Dependencies
-It is recommended to use a virtual environment. Install the required Python packages using:
-Bash
-pip install -r requirements.txt
+It is recommended to use a virtual environment. 
 
 ## 3. Run the Pipeline
 First, split the raw data into proper training and validation sets:
