@@ -1,0 +1,17 @@
+
+# Ignore dataset folder
+chest_xray/
+
+# Ignore generated CSV files
+*.csv
+
+# Ignore large PyTorch model weights
+*.pt
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated plots
+presentation_confusion_matrix.png
