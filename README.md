@@ -39,22 +39,22 @@ The following matrix illustrates the model's cautious, highly sensitive performa
 ## 🚀 How to Use This Project
 
 ### 1. Clone the Repository
-Open your terminal and download the code to your local machine:
+## Open your terminal and download the code to your local machine:
 ```bash
 git clone [https://github.com/bezbaruahjagriti6-commits/Pneumonia-Detection-CNN.git](https://github.com/bezbaruahjagriti6-commits/Pneumonia-Detection-CNN.git)
 cd Pneumonia-Detection-CNN
 
-2. Install Dependencies
+## 2. Install Dependencies
 It is recommended to use a virtual environment. Install the required Python packages using:
 Bash
 pip install -r requirements.txt
 
-3. Run the Pipeline
+## 3. Run the Pipeline
 First, split the raw data into proper training and validation sets:
 Bash
 python prepare_data.py
 
-4. Next, run the model training and evaluation script:
+## 4. Next, run the model training and evaluation script:
 Bash
 python imageanalysis.py
 
